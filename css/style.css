@@ -1,5 +1,6 @@
 body {
     background-color: #8fbc8f;
+    padding-top: 100px;
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
     margin-left: 20px;
 }
 
-img{
+img {
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -18,14 +19,10 @@ img{
     background-color: #8fbc8f;
 }
 
-.terza{
+#ciao{
     background-color: #8fbc8f;
 }
 
-#quarta{
-    background-color: #99C68E;
-}
-
-#headerDiv{
-    background-color: #B5EAAA;
+.row {
+    padding-left: 20px;
 }
